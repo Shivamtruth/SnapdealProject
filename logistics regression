@@ -1,7 +1,7 @@
 # An implementation of Logistic Regression algorithm in python.
 # The class use sparse representation of features.
 # Author: Xiance Si (sixiance<at>gmail.com)
-
+# Used by:Shivam Singh
 import math
 
 class LogisticRegression:
