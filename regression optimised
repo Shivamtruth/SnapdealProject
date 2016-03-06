@@ -1,6 +1,6 @@
-__author__ = 'Miroslaw Horbal'
-__email__ = 'miroslaw@gmail.com'
-__date__ = '14-06-2013'
+__author__ = 'Shivam Singh'
+__email__ = 'shivam.truth@gmail.com'
+__date__ = '12-29-2015'
 
 from numpy import array, hstack
 from sklearn import metrics, cross_validation, linear_model
